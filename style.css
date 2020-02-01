@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    padding: 5px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    background-color: black;
+}
+.button {
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    margin: 2px;
+    cursor: pointer;
+    border: none;   
+}
+.textview {
+    width: 237px;
+    margin: 5px;
+    font-size: 30px;
+    padding: 10px;
+    border: none;
+}
+.button2 {
+    width: 60px;
+    height: 125px;
+    font-size: 30px;
+    margin: 2px;
+    cursor: pointer;
+    border: none;
+}
+.button3 {
+    width: 126px;
+    height: 60px;
+    font-size: 30px;
+    margin: 2px;
+    cursor: pointer;
+    border: none;
+}
